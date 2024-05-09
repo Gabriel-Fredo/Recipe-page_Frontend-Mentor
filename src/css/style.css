@@ -74,10 +74,12 @@ body {
     border-bottom: 2px solid hsl(30, 18%, 87%);
 }
 
-.recipe-box .preparation h3 {
+.recipe-box .preparation h2 {
     color: hsl(332, 51%, 32%);
     font-family: 'outfit', sans-serif;
     padding-left: 15px;
+    font-weight: 800;
+    font-size: 18px;
 }
 
 .recipe-box h2 {
